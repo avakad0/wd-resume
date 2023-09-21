@@ -8,9 +8,11 @@
 
 ## Work Experience
 **Sr. Tech Expert @ Verizon (_January 2019 - Present_)**
--thing
--thing
+- thing
+- thing
 
 **job @ place (_date_)**
+- thing
+- thing
 
 ### Projects
