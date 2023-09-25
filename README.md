@@ -34,4 +34,6 @@ resolutions.
 technical training/support on software to end-users.
 - Defused volatile customer situations calmly and courteously
 
-### Projects
+## Projects
+-Building a python application that uses a public API for user to search specific data (dnd_spell_search)
+-Building a Rest API for future projects using SQL. This database will be used showcase data for community events held by Weston.
