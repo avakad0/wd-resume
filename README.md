@@ -1,10 +1,10 @@
 # Sr. Tech Expert
 
-#### Skills: I.T. solutions, HTML, CSS, Python, Customer Service, Musican, Graphic Designer, Adobe, Google Suite, Microsoft Office, Training & Development, Cross-functional collaboration, Connected Vehicle (CV) technologies, A.I. Utilization & Functionality, Data Backup & Restroration
+#### Skills: I.T. solutions, HTML, CSS, Python, Customer Service, Musican, Graphic Designer, Adobe, Google Suite, Microsoft Office, Training & Development, Cross-functional collaboration, Connected Vehicle (CV) technologies, A.I. Utilization & Functionality, Data Backup & Restarration
 
 ## Education
 - HS Diploma
-- CompTIA A+ (in progress)
+- CompTIA A+
 
 ## Work Experience
 **Sr. Tech Expert @ Verizon Wireless (_January 2020 - Present_)**
