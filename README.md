@@ -9,7 +9,7 @@
 ## Work Experience
 **Sr. Tech Expert @ Verizon Wireless (_January 2020 - Present_)**
 - Worked with the Network Escalation Team for resolution on complex issues.
-- Utilizing ticketing systems to submit and communicate with the Network Operation Center
+- Utilized ticketing systems to submit and communicate with the Network Operation Center
 (NOC).
 - Resolved issues involving many telecommunication devices including but not limited to: Connected Vehicle (CV) technologies, Cellphones (iOS, Google OS, Android), 5G Home Internet devices: 5G Internet Gateway, Verizon Gateway, and LV65 Receiver
 - Consistently met call handling goals with an 80% first call resolution.
@@ -22,7 +22,7 @@ generate $100 an hour per contact.
 boosting customer satisfaction scores.
 
 **Customer Service Advocate @ Verizon Wireless (_January 2019 - January 2020_)**
-- Key contact for all Verizon-related manners, keeping current with more than 50 rotating promotions.
+- Key contact for all Verizon-related matters, keeping current with more than 50 rotating promotions.
 - Facilitated a positive customer experience in selecting optimal Verizon plans, devices and
 accessories to fit their unique needs.
 - Capitalized on Verizon knowledge to ably market and sell services to customers.
