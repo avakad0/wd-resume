@@ -1,6 +1,6 @@
 # Sr. Tech Expert
 
-#### Skills: I.T. solutions, HTML, CSS, Python, Customer Service, Musican, Graphic Designer, Adobe, Google Suite, Microsoft Office, Training & Development, Cross-functional collaboration, Connected Vehicle (CV) technologies, A.I. Utilization & Functionality, Data Backup & Restarration
+#### Skills: I.T. solutions, HTML, CSS, Python, Customer Service, Musican, Graphic Designer, Adobe Suite, Google Suite, Microsoft Office Suite, Training & Development, Cross-functional collaboration, Connected Vehicle (CV) technologies, A.I. Utilization & Functionality, Data Backup & Restarration
 
 ## Education
 - HS Diploma
@@ -42,3 +42,6 @@ Building a python application that uses a public API for user to search specific
 
 ### API with continued data entry
 Building a Rest API for future projects using SQL. This database will be used showcase data for community events held by Weston.
+
+### Buildt a Dedicated Linux Ubuntu  Server
+I've personally always wanted a server that I can call my own but also not be limited to my personal PC always being on. I made an alway up Valheim server using LinuxGSM and added automation cron jobs such as: auto update, auto monitor, auto restart, ect...
