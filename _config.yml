@@ -2,5 +2,4 @@ title: Weston DuHamel
 logo: /assets/img/headshot-blk-wht.jpg
 #description: text below image
 show_downloads: false
-theme: jekyll-theme-minimal
-skin: dark
+remote_theme: "godalming123/minimal"
