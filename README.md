@@ -43,5 +43,5 @@ Building a python application that uses a public API for user to search specific
 ### API with continued data entry
 Building a Rest API for future projects using SQL. This database will be used showcase data for community events held by Weston.
 
-### Buildt a Dedicated Linux Ubuntu  Server
+### Built a Dedicated Linux Ubuntu  Server
 I've personally always wanted a server that I can call my own but also not be limited to my personal PC always being on. I made an alway up Valheim server using LinuxGSM and added automation cron jobs such as: auto update, auto monitor, auto restart, ect...
